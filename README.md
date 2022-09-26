@@ -1,4 +1,3 @@
-# lumus
 
 ## Project setup
 ```
